@@ -103,3 +103,7 @@ button {
 button:hover {
   background-color: #6c8cff;
 }
+
+.widget {
+  text-align: center;
+}
